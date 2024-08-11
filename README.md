@@ -13,7 +13,7 @@ Hello! 👋 I'm Eduardo Caro Valverde, a passionate mathematics, statistical, na
 - 😄 Pronouns: ... #010101
 - ⚡
   
-# 🌐 Socials:
+# 🌐 Where to find me :
 
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -24,7 +24,7 @@ Hello! 👋 I'm Eduardo Caro Valverde, a passionate mathematics, statistical, na
   ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 
-# ⚔️ Tech Stack:
+# ⚔️ Tech Stack => Languajes and Tools
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
