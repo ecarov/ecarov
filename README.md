@@ -1,7 +1,7 @@
 # Hola, Bienvenido, mi Nombre es Eduardo Caro 👋
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9wbTBjejR4aHoweXRlanphYjRnZnY1OG5pYzJ0Y2R0N2dndHdvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xPRvQsPcI6V5dK/giphy.webp" width="100"/>
   
-  # Tecnologias
+  # Tecnologías
   
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
