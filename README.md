@@ -1,5 +1,13 @@
 # Hola, Bienvenido, mi Nombre es Eduardo Caro 👋
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9wbTBjejR4aHoweXRlanphYjRnZnY1OG5pYzJ0Y2R0N2dndHdvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xPRvQsPcI6V5dK/giphy.webp" width="100"/>
+    
+- 👋 Hi, I’m @ecarovdev, my name is Eduardo Caro
+- 👀 I am interested in technology, the development of AI, for the benefit of people
+- 🌱 I am always studying and applying new knowledge
+- 💞️ I am looking to collaborate in companies that develop with AI, it would be excellent in vision.
+- 📫 How to reach me for email... ecarov.dev@yahoo.com
+- 😄 Pronouns: ... #010101
+- ⚡
   
   # Tecnologías
   
