@@ -6,7 +6,9 @@ Hello! 👋 I'm Eduardo Caro Valverde, a passionate mathematics, statistical, na
 
 Frontend Architect, Web Developer, Consultant, Open Source Enthusiast from Chihuahua (México).
 
-## Academic Degrees : Master's degree in Science and Engineering, [{ M.Sc. Manuel Eduardo Caro Valverde ISC }]
+## Academic Degrees : Master's degree in Science and Engineering, 
+## [{ M.Sc. Manuel Eduardo Caro Valverde ISC }]
+
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9wbTBjejR4aHoweXRlanphYjRnZnY1OG5pYzJ0Y2R0N2dndHdvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xPRvQsPcI6V5dK/giphy.webp" width="100"/>
     
 - 👋 Hi, I’m @ecarovdev, my name is Eduardo Caro
